@@ -10,7 +10,7 @@ public class ProductController {
 	
 	@GetMapping
     public String ProductControl() {
-        return "produc";
+        return "product";
     }
 	
 	
